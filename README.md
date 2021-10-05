@@ -7,6 +7,6 @@ Simple rules for a simple 2 players game:
 3- Each in turn, add a 0 or a 1 (the matrix takes its values in Z/2Z) somewhere in the matrix.
 4- The defender wins if the matrix is not invertible, otherwise the attacker wins.
 5- Good luck!
-<br />
-<br />
+<br/>
+<br/>
 This game has been created by AG and his friends in the ENS of Cachan in the early 2000's.
