@@ -21,3 +21,7 @@ def det(mat):
 
 def tirage():
 	return randint(0, 1)
+    
+# partie calcul de déterminant sur matrice partielle
+
+
