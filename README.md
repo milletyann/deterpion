@@ -9,4 +9,4 @@ Simple rules for a simple 2 players game: <br>
 5- Good luck! <br>
 <br>
 <br>
-This game has been created by AG and his friends in the ENS of Cachan in the early 2000's.
+This game has been created by Alexis Gryson and his friends in ENS Cachan in the early 2000's.
